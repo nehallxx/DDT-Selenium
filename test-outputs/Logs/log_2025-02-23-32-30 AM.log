@@ -1,0 +1,21 @@
+[DEBUG] $d{yyyy-MM-dd-mm-ss a} main [org.testng.TestNG] - suiteXmlPath: "C:\Users\USER\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml"
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ADDING NODE LoginTest.setUp()[pri:0, instance:null] -1761630281
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ADDING NODE LoginTest.tearDown()[pri:0, instance:null] 212945728
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ADDING NODE LoginTest.successfulLogin()[pri:0, instance:org.practice.tests.LoginTest@1015a4b9] -1580601392
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ================ SORTING
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] =============== DONE SORTING
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ====== SORTED NODES
+[TRACE] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Graph] - [Graph] ====== END SORTED NODES
+[INFO] $d{yyyy-MM-dd-mm-ss a} main [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\USER\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [io.qameta.allure.util.NamingUtils] - Could not find parameter data
+[ERROR] $d{yyyy-MM-dd-mm-ss a} main [io.qameta.allure.util.NamingUtils] - Could not find parameter data
